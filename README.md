@@ -6,8 +6,8 @@
 
 ### Estudando atualmente:
 
-| <img title="PYTHON" width="50" height="50" src="https://img.icons8.com/?size=80&id=lXPUSRCongH1&format=png"/> |
-|:------:|
-|Python|
+| <img title="PYTHON" width="50" height="50" src="https://img.icons8.com/?size=80&id=lXPUSRCongH1&format=png"/> | <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/> |
+|:----:|:----:|
+|Python|   GIT|
 
 #
